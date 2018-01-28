@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 5de0905341b7f8e4dadd6ef204726678
+timeCreated: 1517169604
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: super_rhythm_punchlayoutPNG_0
+    21300002: super_rhythm_punchlayoutPNG_1
+    21300004: super_rhythm_punchlayoutPNG_2
+    21300006: super_rhythm_punchlayoutPNG_3
+    21300008: super_rhythm_punchlayoutPNG_4
+    21300010: super_rhythm_punchlayoutPNG_5
+    21300012: super_rhythm_punchlayoutPNG_6
+    21300014: super_rhythm_punchlayoutPNG_7
+    21300016: super_rhythm_punchlayoutPNG_8
+    21300018: super_rhythm_punchlayoutPNG_9
+    21300020: super_rhythm_punchlayoutPNG_10
+    21300022: super_rhythm_punchlayoutPNG_11
+    21300024: super_rhythm_punchlayoutPNG_12
+    21300026: super_rhythm_punchlayoutPNG_13
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: super_rhythm_punchlayoutPNG_0
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 2917
+        width: 556
+        height: 551
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: super_rhythm_punchlayoutPNG_1
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 2001
+        width: 1326
+        height: 2179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 89, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: super_rhythm_punchlayoutPNG_2
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 1869
+        width: 575
+        height: 1117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: super_rhythm_punchlayoutPNG_3
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 160
+        width: 1470
+        height: 3996
+      alignment: 9
+      pivot: {x: 0.6796945, y: 0.051295146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: super_rhythm_punchlayoutPNG_4
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2290
+        width: 479
+        height: 569
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: super_rhythm_punchlayoutPNG_5
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 1793
+        width: 556
+        height: 1124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: super_rhythm_punchlayoutPNG_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1227
+        width: 735
+        height: 1057
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: super_rhythm_punchlayoutPNG_7
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1444
+        width: 480
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: super_rhythm_punchlayoutPNG_8
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 1863
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: super_rhythm_punchlayoutPNG_9
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 378
+        width: 733
+        height: 1058
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: super_rhythm_punchlayoutPNG_10
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 1196
+        width: 408
+        height: 648
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: super_rhythm_punchlayoutPNG_11
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 1130
+        width: 403
+        height: 638
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: super_rhythm_punchlayoutPNG_12
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 584
+        width: 706
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: super_rhythm_punchlayoutPNG_13
+      rect:
+        serializedVersion: 2
+        x: 2993
+        y: 542
+        width: 708
+        height: 548
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

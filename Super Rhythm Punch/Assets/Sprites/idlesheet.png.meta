@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: cfa9da5458a8dd5428be43631866fa3e
+timeCreated: 1517169581
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: idlesheet_0
+    21300002: idlesheet_1
+    21300004: idlesheet_2
+    21300006: idlesheet_3
+    21300008: idlesheet_4
+    21300010: idlesheet_5
+    21300012: idlesheet_6
+    21300014: idlesheet_7
+    21300016: idlesheet_8
+    21300018: idlesheet_9
+    21300020: idlesheet_10
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 15
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idlesheet_0
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 2007
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idlesheet_1
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 2006
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idlesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 2006
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idlesheet_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1363
+        width: 366
+        height: 552
+      alignment: 9
+      pivot: {x: 0.23282544, y: 0.07737157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idlesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1363
+        width: 367
+        height: 565
+      alignment: 9
+      pivot: {x: 0.23234238, y: 0.075029165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idlesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1363
+        width: 367
+        height: 558
+      alignment: 9
+      pivot: {x: 0.2364472, y: 0.07270862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idlesheet_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 684
+        width: 366
+        height: 577
+      alignment: 9
+      pivot: {x: 0.23262158, y: 0.07663836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idlesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 684
+        width: 367
+        height: 579
+      alignment: 9
+      pivot: {x: 0.22924472, y: 0.075498484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idlesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 684
+        width: 367
+        height: 550
+      alignment: 9
+      pivot: {x: 0.2318052, y: 0.08067338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idlesheet_9
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 3
+        width: 366
+        height: 580
+      alignment: 9
+      pivot: {x: 0.23596391, y: 0.07720754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idlesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 3
+        width: 367
+        height: 572
+      alignment: 9
+      pivot: {x: 0.23257788, y: 0.08034461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
